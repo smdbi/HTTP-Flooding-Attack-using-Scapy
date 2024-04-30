@@ -3,5 +3,5 @@ to run this:
 - `pip3 install scapy.`
 - Command-line to run:
     ```
-     $ python http_flood.py <target_ip> -p <port_number> -u <url, '/' for default> -n <num_threads> -r <num_reauests>w
+     $ python http_flood.py <target_ip> -p <port_number> -u <url, '/' for default> -n <num_threads> -r <num_reauests>
     ```

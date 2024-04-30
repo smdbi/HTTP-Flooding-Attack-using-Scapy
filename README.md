@@ -5,4 +5,4 @@ to run this:
     ```
      $ python http_flood.py <target_ip> -p <port_number> -u <url, '/' for default> -n <num_threads> -r <num_reauests>
     ```
-Note: for educational purpose only. 
+Note: created for educational purpose only. use at your own risk.
